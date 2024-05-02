@@ -8,7 +8,7 @@ I am not a cybersecurity specialist so the program only rejects files with the .
 
 # Installation
 You must install the module "pytube". This can be done via:
-pip install pytube
+"pip install pytube"
 
 All you need to do is run the code in your terminal (no administrator access required) and it will work!
 
